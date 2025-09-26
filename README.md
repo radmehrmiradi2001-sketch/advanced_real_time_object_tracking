@@ -91,12 +91,6 @@ opencv-python>=4.8
 
 ⸻
 
-📜 License
-
-Specify your license here (e.g., MIT). Add a LICENSE file at the repo root.
-
-⸻
-
 🙌 Acknowledgments
 	•	Built with OpenCV’s tracking API.
 	•	Inspired by classical CV approaches for lightweight, real-time applications.
